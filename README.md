@@ -1,7 +1,7 @@
 Joss Appleton-Fox
 =================
 
-I'm a developer with a keen interest in all things server-side.
+I'm a developer with a keen interest in all things server-side. I'm currently learning about REST APIs using Flask and Postman, and messing around with a Raspberry Pi in my spare time. Please behold my skills:
 
 
 Python
@@ -16,7 +16,6 @@ Shell
 [cmt](https://github.com/jaf7c7/cmt) - *A simple Unix filter for toggling code comments*
 
 
-Other skills:
--------------
-* Linux (Red Hat, Debian)
-* VMWare (Workstation, ESXi)
+Linux/VMWare
+------------
+I do all my development work on a Red Hat Enterprise Linux virtual machine running in VMWare ESXi installed on a Raspberry Pi 400 in the corner of my living room
