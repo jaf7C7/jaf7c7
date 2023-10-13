@@ -13,7 +13,7 @@ Shell
 -----
 [urltools](https://github.com/jaf7c7/urltools) - *A collection of CLI tools for dealing with URLs* \
 [nb](https://github.com/jaf7c7/nb) - *A CLI tool for creating, managing and searching a personal knowledge base* \
-[cmt](https://github.com/jaf7c7/cmt) - *A simple Unix filter for toggling code comments* \
+[cmt](https://github.com/jaf7c7/cmt) - *A simple Unix filter for toggling code comments*
 
 
 Other skills:
